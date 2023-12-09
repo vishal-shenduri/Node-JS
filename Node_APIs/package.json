@@ -1,0 +1,15 @@
+{
+  "name": "node_apis",
+  "version": "1.0.0",
+  "description": "Testing out node API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Vishal Shenduri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
